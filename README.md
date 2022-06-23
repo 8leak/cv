@@ -29,14 +29,14 @@ Helping an old-school business improve its processes
   - 🏠 Maintaining property and tenant records
   - ☎️ Client visits and communications
   - 📷 Property assessments 
-<br>
+<br><br>
 
 ## 📜 Certifications
   - Microsoft Azure Fundamentals
   - Agored Level 4 Software Design & Programming
   - Knowledge Academy: Certificate in HTML, JavaScript & CSS3
   - ILM level 3 Award in Leadership and Management
-<br>
+<br><br>
 
 ## 👨‍🎓 Education
 
