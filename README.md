@@ -38,7 +38,7 @@ Helping an old-school business improve its processes
   - Knowledge Academy: Scrum Developer
   - ILM level 3 Award in Leadership and Management
   - Udemy: [2022 Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/)
-    - Covering Command Line Basics, Data Types, Functions, Scope, Debugging and Error Handling, Object Oriented Programming, Inheritance, Polymorphism, Unit Testing, Modules, External Modules
+    - Command Line Basics, Data Types, Functions, Scope, Debugging and Error Handling, Object Oriented Programming, Inheritance, Polymorphism, Unit Testing, Modules, External Modules
 <br><br>
 
 ## 👨‍🎓 Education
