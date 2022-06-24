@@ -1,10 +1,10 @@
 # Cal Christian
 01446 753685 / [Email](mailto:callumchristian00@gmail.com) / [LinkedIn](https://www.linkedin.com/in/cal-christian/)
 <br><br>
-🤖 Student developer looking for a place where I can expand my skills. I’ve recently been exposed to the power and possibilities of software engineering and I’m incredibly excited to pursue it as my career. I’m hoping I can bring passion and a drive to learn to a likeminded team!<br>
+🤖 Student developer looking for a place where I can expand my skills. I’ve recently been exposed to the power and possibilities of software engineering and I’m incredibly excited to pursue it as my career. I’m hoping I can bring passion and a drive to learn to a likeminded team!<br><br>
 ## 👨‍💻 Experience
 
-**Coding Academy Bootcamp (Front-End)** @ [FinTech Wales](https://fintechwales.org/) _(2022)_<br><br>
+**Coding Academy Bootcamp (Front-End)** @ [FinTech Wales](https://fintechwales.org/) _(2022)_<br>
 10-week intensive software engineering course
   - 📚 Developed skills/knowledge of:
     - Programming, software design and web development
