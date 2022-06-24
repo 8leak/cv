@@ -4,7 +4,7 @@
 🤖 Student developer looking for a place where I can expand my skills. I’ve recently been exposed to the power and possibilities of software engineering and I’m incredibly excited to pursue it as my career. I’m hoping I can bring passion and a drive to learn to a likeminded team!<br><br>
 ## 👨‍💻 Experience
 
-**Coding Academy Bootcamp (Front-End)** @ [FinTech Wales](https://fintechwales.org/) _(2022)_<br>
+**[FinTech Wales](https://fintechwales.org/) Coding Academy Bootcamp (Front-End)** @ [CAVC](https://cavc.ac.uk/en) _(2022, April - June)_<br>
 10-week intensive software engineering course
   - 📚 Developed skills/knowledge of:
     - Programming, software design and web development
@@ -41,8 +41,8 @@ Helping an old-school business improve its processes
 
 ## 👨‍🎓 Education
 
-**BA (Hons) First Class** Philosophy<br>
+**BA (Hons) First Class** Philosophy (2016 - 2019)<br>
 [University of York](https://www.york.ac.uk/)
 
-**A Levels: Ethics & Philosophy** (A), **Mathematics** (B), **History** (B)<br>
+**A Levels: Ethics & Philosophy** (A), **Mathematics** (B), **History** (B) (2016)<br>
 [Cowbridge Comprehensive School](https://www.cowbridgecomprehensiveschool.co.uk/)
