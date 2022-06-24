@@ -1,8 +1,8 @@
 # Cal Christian
-
-🤖 _Student Developer_
-
 01446 753685 / [Email](mailto:callumchristian00@gmail.com) / [LinkedIn](https://www.linkedin.com/in/cal-christian/)
+<br><br>
+🤖 Student developer looking for a place where I can expand my skills. I’ve recently been exposed to the power and possibilities of software engineering and I’m incredibly excited to pursue it as my career. I’m hoping I can bring passion and a drive to learn to a likeminded team!
+
 <br><br>
 ## 👨‍💻 Experience
 
@@ -15,7 +15,7 @@
     - Leadership and collaboration in software engineering teams
   - **_Technologies used:_** Python, JavaScript, React, TypeScript, HTML5, CSS3, Microsoft Azure, Git, GitHub
 
-**Part Time Business Assistant** @ [Atlantic Crest](https://www.atlanticcrest.com/) _(2021)_<br>
+**Part Time Business Assistant** @ [Atlantic Crest](https://www.atlanticcrest.com/) _(2021, April - October)_<br>
 Web design and technology assistant
   - 🤝 Social Media Networking
   - 🗄️ Setting up and maintaining client records
@@ -24,7 +24,7 @@ Web design and technology assistant
   - 👷 Generating safety reports
   - 🌐 Web design using WIX
 
-**Part Time Administrative Office Assistant** @ [Colston Lettings](http://www.colstonlettings.co.uk/) _(2020)_<br>
+**Part Time Administrative Office Assistant** @ [Colston Lettings](http://www.colstonlettings.co.uk/) _(2020, 1 month)_<br>
 Helping an old-school business improve its processes
   - 🏠 Maintaining property and tenant records
   - ☎️ Client visits and communications
@@ -46,6 +46,5 @@ Helping an old-school business improve its processes
 **BA (Hons) First Class** Philosophy<br>
 [University of York](https://www.york.ac.uk/)
 
-**A Level, Ethics & Philosophy** (A)<br>
-**A Level, Mathematics** (B)<br>
-**A Level, History** (B)<br>
+**A Levels: Ethics & Philosophy** (A), **Mathematics** (B), **History** (B)<br>
+[Cowbridge Comprehensive School](https://www.cowbridgecomprehensiveschool.co.uk/)
