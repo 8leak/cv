@@ -4,7 +4,7 @@
 🤖 Student developer looking for a place where I can expand my skills. I’ve recently been exposed to the power and possibilities of software engineering and I’m incredibly excited to pursue it as my career. I’m hoping I can bring passion and a drive to learn to a likeminded team!<br>
 ## 👨‍💻 Experience
 
-**Coding Academy Bootcamp (Front-End)** @ [FinTech Wales](https://fintechwales.org/) _(2022)_<br>
+**Coding Academy Bootcamp (Front-End)** @ [FinTech Wales](https://fintechwales.org/) _(2022)_<br><br>
 10-week intensive software engineering course
   - 📚 Developed skills/knowledge of:
     - Programming, software design and web development
