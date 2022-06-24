@@ -13,7 +13,7 @@
     - Leadership and collaboration in software engineering teams
   - **_Technologies used:_** Python, JavaScript, React, TypeScript, HTML5, CSS3, Microsoft Azure, Git, GitHub
 
-**Part Time Business Assistant** @ [Atlantic Crest](https://www.atlanticcrest.com/) _(2021, April - October)_<br>
+**Part Time Business Assistant Contract** @ [Atlantic Crest](https://www.atlanticcrest.com/) _(2021, April - October)_<br>
 Web design and technology assistant
   - 🤝 Social Media Networking
   - 🗄️ Setting up and maintaining client records
@@ -22,7 +22,7 @@ Web design and technology assistant
   - 👷 Generating safety reports
   - 🌐 Web design using WIX
 
-**Part Time Administrative Office Assistant** @ [Colston Lettings](http://www.colstonlettings.co.uk/) _(2020, 1 month)_<br>
+**Work Experience** @ [Colston Lettings](http://www.colstonlettings.co.uk/) _(2020, 1 month)_<br>
 Helping an old-school business improve its processes
   - 🏠 Maintaining property and tenant records
   - ☎️ Client visits and communications
