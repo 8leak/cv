@@ -1,6 +1,6 @@
 # Cal Christian
 
-_🤖 Student Developer_
+🤖 _Student Developer_
 
 01446 753685 / [Email](mailto:callumchristian00@gmail.com) / [LinkedIn](https://www.linkedin.com/in/cal-christian/)
 <br><br>
